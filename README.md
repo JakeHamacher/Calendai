@@ -1,5 +1,6 @@
-# Calend-ai
-## Calendar App
+# Calendai
+
+This was a side-project I made when I got bored of doing homework and needed a break. Built in conjunction with Copilot!
 
 ## Description
 This is a simple Calendar and To-Do List application built using Python and Tkinter. The application allows users to:
@@ -18,7 +19,7 @@ This is a simple Calendar and To-Do List application built using Python and Tkin
 To run the Calendar App, ensure you have the following installed:
 
 - Python 3.x
-- Tkinter (built-in with Python)
+- Tkinter
 
 ## Installation
 1. Clone this repository:
@@ -49,7 +50,4 @@ To run the Calendar App, ensure you have the following installed:
 
 ## License
 This project is open-source. You can modify and distribute it as needed.
-
-## Author
-Created by [Your Name]. Feel free to contribute or report issues!
 
