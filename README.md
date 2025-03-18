@@ -24,8 +24,8 @@ To run the Calendar App, ensure you have the following installed:
 ## Installation
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/your-repository.git
-   cd your-repository
+   git clone https://github.com/JakeHamacher/Calendai
+   cd Calendai
    ```
 2. Run the script:
    ```sh
